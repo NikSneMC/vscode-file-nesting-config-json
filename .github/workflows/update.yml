@@ -1,4 +1,4 @@
-name: Update Update settings
+name: Update settings
 
 on:
   workflow_dispatch:
